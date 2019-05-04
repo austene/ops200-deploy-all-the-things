@@ -1,7 +1,7 @@
 # ops200-deploy-all-the-things
 
 ## Purpose of Program
-Confirms that all React100 appss are deployed to Heroku.
+Confirms that all React100 apps are deployed to Heroku.
 
 ## Setup
 
@@ -19,6 +19,7 @@ $ npm install
 $ npm start
 ```
 (npm run build and npm start combined in package.json with `npm start`.)
+
 3. Testing
 ```
 $ npm test
