@@ -1,7 +1,8 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://hidden-lowlands-35114.herokuapp.com/",
+  "change_calculator": "https://ae-react100-change-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://ae-react100-mortgagecalculator.herokuapp.com/",
+  "top_spots": "https://ae-react100-sd-top-spots.herokuapp.com/",
+  "vstda": "https://ae-react100-vstda.herokuapp.com/",
+  "hackathon": "https://ae-react100-hackathon.herokuapp.com/"
 }
