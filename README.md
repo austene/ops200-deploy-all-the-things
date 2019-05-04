@@ -18,7 +18,7 @@ $ npm install
 ```
 $ npm start
 ```
-(npm run build and npm start combined in package.json with `npm start`.)
+- npm run build and npm start combined in package.json with `npm start`.
 
 3. Testing
 ```
